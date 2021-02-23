@@ -1,3 +1,4 @@
+#! python3
 print('*********************************')
 print('Bem vindo ao jogo de Adivinhação!')
 print('*********************************')
