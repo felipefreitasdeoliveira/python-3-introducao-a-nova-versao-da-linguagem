@@ -1,4 +1,4 @@
-# Python 3 parte 1: Introdução à nova versão da linguagem
+# Python3 parte 1: Introdução à nova versão da linguagem
 
 ## Treinamento
 
