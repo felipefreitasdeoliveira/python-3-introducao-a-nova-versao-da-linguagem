@@ -9,3 +9,4 @@
 - Use PyCharm para desenvolver
 - Crie um jogo para aprender os recursos fundamentais do Python 3
 - Rode o seu código em qualquer lugar
+- Módulos separados
