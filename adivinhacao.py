@@ -50,3 +50,6 @@ def jogar():
             pontos = pontos - pontos_perdidos
 
     print("\n Fim do Jogo")
+
+if (__name__ == "main"):
+    jogar()
