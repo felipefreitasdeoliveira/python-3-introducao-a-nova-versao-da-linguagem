@@ -1,7 +1,7 @@
 import random
 
-def jogar():
 
+def jogar():
     print('*********************************')
     print('Bem vindo ao jogo de Adivinhação!')
     print('*********************************\n')
@@ -9,7 +9,6 @@ def jogar():
     numero_secreto = random.randrange(1, 101)
     total_de_tentativas = 0
     pontos = 1000
-
 
     print("Qual nível de Dificuldade?", numero_secreto)
     print('*********************************')
@@ -51,5 +50,6 @@ def jogar():
 
     print("\n Fim do Jogo")
 
-if (__name__ == "main"):
+
+if __name__ == "__main__":
     jogar()
