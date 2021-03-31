@@ -1,0 +1,4 @@
+valores = [ ]
+
+print(type(valores))
+
