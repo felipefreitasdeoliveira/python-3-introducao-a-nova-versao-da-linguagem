@@ -11,7 +11,7 @@ def jogar():
 
     print(letras_acertadas)
 
-    while (not enforcou and not acertou):
+    while not enforcou and not acertou:
 
         chute = input("Qual a Letra? ")
         chute = chute.strip()
