@@ -18,4 +18,4 @@ print(dias)
 print("\nCriando uma tupla\n")
 dias = ("Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado")
 print(type(dias))
-dias.append("Sábado2")
+dias.append("Sábado2")   #  Isso dará erro
